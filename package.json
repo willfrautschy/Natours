@@ -1,0 +1,12 @@
+{
+  "name": "WillFrautschy",
+  "version": "1.0.0",
+  "scripts": {
+    "compile:sass": "node-sass sass\\main.scss css\\style.css -w"
+  },
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "npm": "^5.8.0"
+  }
+}
